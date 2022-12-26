@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishaldhanasingh
+- 👋 Hi, I’m vishal..
 - 👀 I’m interested in java
 - 🌱 I’m currently compeleted a course in Full-Stack Developer.
 - 💞️ I’m looking to collaborate on backend.
